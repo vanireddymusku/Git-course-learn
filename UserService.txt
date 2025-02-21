@@ -1,2 +1,4 @@
 Get the User data.......
-Process the data
+Process the data status
+
+create an avatar for user
