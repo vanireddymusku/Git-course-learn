@@ -2,7 +2,7 @@ add and remove uses
 assign roles to users
 manage the database
 
-closing the database connection
+closing the SQL database connection
 
 change 1
 
